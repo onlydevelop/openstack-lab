@@ -2,8 +2,6 @@
 
 > **Experimental / Learning Environment — Not for Production Use**
 
-![OpenStack Lab Architecture](architecture.png)
-
 This repository documents an **experimental OpenStack lab environment** built for learning, experimentation, architecture exploration, troubleshooting, and hands-on development.
 
 The setup is intentionally optimized for a **single-node, resource-constrained lab environment** running OpenStack inside an Ubuntu ARM64 virtual machine on an Apple Silicon Mac. It is **not a production reference architecture**.
